@@ -136,7 +136,7 @@ export default function QuemSomos() {
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
       >
-        Luis Carlos Schmidt
+        Luiz Carlos Schmidt
       </motion.h1>
 
       <motion.div
