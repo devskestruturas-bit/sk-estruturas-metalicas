@@ -1,0 +1,18 @@
+{
+  "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  },
+  "components\\Header.tsx -> ./MotionMenu": {
+    "id": "components\\Header.tsx -> ./MotionMenu",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_MotionMenu_tsx.js"
+    ]
+  },
+  "components\\Header.tsx -> react-icons/fa": {
+    "id": "components\\Header.tsx -> react-icons/fa",
+    "files": []
+  }
+}
