@@ -41,6 +41,9 @@ body {
 .txt-light-blue{
   color: #9ECCFA;
 }
+.txt-force-white{
+  color: #ffffff !important;
+}
 
 .desk {
   display: block;
