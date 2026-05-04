@@ -120,7 +120,7 @@ export default function QuemSomos() {
     >
       <Image
         src="/luis.png"
-        alt="Fundador da SK - Luis Carlos Schmidt"
+        alt="Fundador da SK - Luiz Carlos Schmidt"
         width={300}
         height={300}
         className="object-cover w-full h-full"

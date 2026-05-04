@@ -110,8 +110,8 @@ export default function Header() {
             {/* Top bar */}
             <div className="hidden lg:flex relative justify-between items-center bg-[#0C1956] [clip-path:polygon(0%_0%,100%_0%,100%_100%,5%_100%)] text-white text-sm xl:text-[13px] lg:text-[12px] px-6 py-2 xl:py-1.5">
               <div className="flex pl-12 xl:pl-8 lg:pl-4 items-center gap-4 lg:gap-3">
-                <a href="mailto:comercial@skestruturas.com.br" className="hover:underline">
-                  comercial@skestruturas.com.br
+                <a href="mailto: michel.bonette@skestruturas.com.br" className="hover:underline">
+                   michel.bonette@skestruturas.com.br
                 </a>
                 <div className="h-6 w-px bg-white opacity-50"></div>
                 <a href="tel:+555131776005" className="hover:underline">

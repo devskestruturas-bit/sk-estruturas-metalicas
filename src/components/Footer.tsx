@@ -48,10 +48,10 @@ export default function Footer() {
               <div className="border border-white/40 rounded-lg px-4 py-2 inline-block transition hover:bg-white/10">
                 <strong>E-mail:</strong>{" "}
                 <a
-                  href="mailto:comercial@skestruturas.com.br"
+                  href="mailto: michel.bonette@skestruturas.com.br"
                   className="hover:underline font-medium"
                 >
-                  comercial@skestruturas.com.br
+                   michel.bonette@skestruturas.com.br
                 </a>
               </div>
 
