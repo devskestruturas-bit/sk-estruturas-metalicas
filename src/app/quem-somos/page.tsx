@@ -91,7 +91,7 @@ export default function QuemSomos() {
       <div className="w-full flex flex-col items-center justify-center py-24 relative z-10">
 
   <motion.h2
-    className="text-2xl sm:text-3xl md:text-3xl lg:text-3xl txt-white p-6 rounded-t-2xl text-center bg-dark-blue w-full max-w-full lg:max-w-3/4"
+    className="text-2xl sm:text-3xl md:text-3xl lg:text-3xl txt-white txt-[#ffffff] p-6 rounded-t-2xl text-center bg-dark-blue w-full max-w-full lg:max-w-3/4"
     initial={{ opacity: 0, y: 20 }}
     whileInView={{ opacity: 1, y: 0 }}
     transition={{ duration: 0.6 }}
